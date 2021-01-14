@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Go-reqs/timefmt"
+	"github.com/go-reqs/timefmt"
 	"os"
 )
 
